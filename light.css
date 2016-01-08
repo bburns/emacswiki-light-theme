@@ -268,7 +268,7 @@ span.gotobar {
     padding-top: 30px;
     text-align: right;
     /* border-top: 1px dotted #ccc; */
-    border-top: 1px solid #ccc;
+    /* border-top: 1px solid #ccc; */
 }
 span.gotobar a {
     display: block;
@@ -302,8 +302,8 @@ div.header h1 {
     padding-left: 20px;
     padding-top: 30px;
     /* border-top: 1px dotted #ccc; */
-    border-top: 1px solid #ccc;
-    border-left: 1px solid #ccc;
+    /* border-top: 1px solid #ccc; */
+    /* border-left: 1px solid #ccc; */
     /* letter-spacing: 0.05em; */
 }
 div.header h1 a {
@@ -327,7 +327,7 @@ div.content, div.rc, div.diff, div.comment {
     margin-left: 150px; /* see gotobar */
     padding: 1em;
     background: white;
-    border-left: 1px solid #ccc;
+    /* border-left: 1px solid #ccc; */
     min-height: 14em; /* so gotobar won't overwrite footer on small pages */
 /* border: 1px solid red; */
 }
